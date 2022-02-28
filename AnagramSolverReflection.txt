@@ -1,0 +1,32 @@
+Assesement 6: AnagramSolver Reflection
+
+1) What did you learn from working on this 
+assignment?
+
+I learned the backtracking recursion application in compute combinations and possibilities.
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+
+I struggled most on how to start and where to start the recursion. I solved this by review the 
+demo we learned in class and try to find the logic behind the pattern.
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+
+We may use some recursion to replace the while or for loop. Sometimes, it is more convenient
+to use recursion than using for loop.
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+
+No, I don't think so. This spe is very clear.
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+
+About 3 hours overall.
